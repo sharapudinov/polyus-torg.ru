@@ -1,0 +1,1 @@
+<img class="logo-pic" src="<?=SITE_TEMPLATE_PATH?>/images/logo-pic.png" alt="ELASTO START" /><img src="<?=SITE_TEMPLATE_PATH?>/images/logo-title.png" alt="ELASTO START" />

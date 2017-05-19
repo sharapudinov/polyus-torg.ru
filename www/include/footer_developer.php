@@ -1,0 +1,1 @@
+<a href="http://seocontext.su" class="developer" target="_blank"><span class="text">Разработка и продвижение сайта SeoContext.su</span><span class="logo"><span class="altop">SeoContext</span></span></a>

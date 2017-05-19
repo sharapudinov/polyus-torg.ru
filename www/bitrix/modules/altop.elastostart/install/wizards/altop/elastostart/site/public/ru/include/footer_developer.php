@@ -1,0 +1,1 @@
+<a href="http://altop.ru" class="developer" target="_blank"><span class="text">Готовые сайты<br>на 1С-Битрикс</span><span class="logo"><span class="altop">Altop</span><span class="ru">Ru</span></span></a>

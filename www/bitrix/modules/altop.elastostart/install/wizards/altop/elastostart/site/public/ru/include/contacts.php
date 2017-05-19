@@ -1,0 +1,3 @@
+<p><span class="icon"><i class="fa fa-phone"></i></span><span class="phone">+7 (499) <span class="numbers">00-00-000</span></span><span class="hidden-md hidden-lg call"><a class="btn btn-success" href="tel:+74990000000" role="button"><i class="fa fa-phone"></i><span class="text">Позвонить</span></a></span></p>
+<p><span class="icon"><i class="fa fa-mobile"></i></span><span class="phone">+7 (499) <span class="numbers">00-00-000</span></span><span class="hidden-md hidden-lg call"><a class="btn btn-success" href="tel:+74990000000" role="button"><i class="fa fa-phone"></i><span class="text">Позвонить</span></a></span></p>
+<p><span class="icon"><i class="fa fa-skype"></i></span>Skypename</p>
