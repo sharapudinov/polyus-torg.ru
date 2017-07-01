@@ -1,1 +1,2 @@
-<h1>Vata Prima</h1>
+<img class="logo-pic" src="<?=SITE_TEMPLATE_PATH?>/images/logo-pic.png" alt="polyus-torg_logo.png" width="80px" />
+<img src="<?=SITE_TEMPLATE_PATH?>/images/logo-title.png" alt="polyus-torg_logo_title.png" width="200px"/>

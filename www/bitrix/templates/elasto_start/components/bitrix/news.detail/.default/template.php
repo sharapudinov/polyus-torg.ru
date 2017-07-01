@@ -10,13 +10,15 @@ $this->setFrameMode(true);?>
 			</div>
 		</div>
 	</div>
-	<div class="services-detail-banner" style="background-image:url('<?=$arResult['DETAIL_PICTURE']['SRC']?>');"></div>		
 	<div class="container">
-		<div class="row">
+
+    <div class="row">
 			<div class="col-md-12">
+    <div class="services-detail-banner" style="background-image:url('<?=$arResult['DETAIL_PICTURE']['SRC']?>');"></div>
 <?endif;?>
 
 <!--DETAIL_TEXT-->
+<div class="magrin-top"></div>
 <?=$arResult["DETAIL_TEXT"];?>
 
 <!--GALLERY_FILES_DOCS-->

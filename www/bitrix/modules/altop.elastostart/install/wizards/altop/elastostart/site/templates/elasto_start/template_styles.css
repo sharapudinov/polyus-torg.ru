@@ -804,9 +804,11 @@ h2, .h2{
 
 /***SERVICES_DETAIL***/
 .services-detail-banner{
-	width:100%;
-	margin-top:36px;
-	margin-bottom:16px;
+	margin-right: 33px;
+	float: left;
+	width: 39%;
+	margin-top: 36px;
+	margin-bottom: 16px;;
 }
 
 /***NEWS_LIST***/

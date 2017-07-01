@@ -11,9 +11,7 @@
 					<div class="contacts">
 						<!--CONTACTS-->
 						<?$APPLICATION->IncludeComponent("bitrix:main.include", "", array("AREA_FILE_SHOW" => "file", "PATH" => SITE_DIR."include/contacts.php"), false);?>								
-						<div class="callback">
-							<a class="btn btn-primary" href="javascript:void(0)" data-toggle="modal" data-target="#elasto_callback_<?=SITE_ID?>" role="button"><i class="fa fa-phone"></i><span>Заказать звонок</span></a>
-						</div>
+
 					</div>
 				</div>
 			</div>
